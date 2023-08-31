@@ -1,7 +1,6 @@
-package medium.combinationsum;
+package medium.backtracking.combinationsum;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Backtracking
