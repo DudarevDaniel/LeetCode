@@ -1,4 +1,4 @@
-package fiverr.rotatearray;
+package company.fiverr.rotatearray;
 
 import java.util.Arrays;
 

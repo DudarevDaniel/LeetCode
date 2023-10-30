@@ -1,4 +1,4 @@
-package fiverr.shufflearray;
+package company.fiverr.shufflearray;
 
 import java.util.Arrays;
 import java.util.Random;

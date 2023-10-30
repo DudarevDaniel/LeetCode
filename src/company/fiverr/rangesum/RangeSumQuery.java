@@ -1,4 +1,4 @@
-package fiverr.rangesum;
+package company.fiverr.rangesum;
 
 /**
  * <a href="https://leetcode.com/problems/range-sum-query-mutable/description/">LeetCode</a>

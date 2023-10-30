@@ -1,4 +1,4 @@
-package fiverr.lrucache;
+package company.fiverr.lrucache;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package fiverr.arrayproduct;
+package company.fiverr.arrayproduct;
 
 import java.util.Arrays;
 

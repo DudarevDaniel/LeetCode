@@ -1,4 +1,4 @@
-package fiverr.subsets;
+package company.fiverr.subsets;
 
 import java.util.ArrayList;
 import java.util.Collections;

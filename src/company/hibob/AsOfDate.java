@@ -1,4 +1,4 @@
-package hibob;
+package company.hibob;
 
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;

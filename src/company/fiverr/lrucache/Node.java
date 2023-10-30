@@ -1,4 +1,4 @@
-package fiverr.lrucache;
+package company.fiverr.lrucache;
 
 public class Node {
     public int key;

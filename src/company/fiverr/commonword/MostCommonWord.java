@@ -1,4 +1,4 @@
-package fiverr.commonword;
+package company.fiverr.commonword;
 
 import java.util.*;
 import java.util.stream.Collectors;

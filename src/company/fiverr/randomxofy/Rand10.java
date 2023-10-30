@@ -1,4 +1,4 @@
-package fiverr.randomxofy;
+package company.fiverr.randomxofy;
 
 import java.util.Random;
 

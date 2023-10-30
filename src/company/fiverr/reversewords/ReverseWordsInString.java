@@ -1,4 +1,4 @@
-package fiverr.reversewords;
+package company.fiverr.reversewords;
 
 /**
  * <a href="https://leetcode.com/problems/reverse-words-in-a-string/">LeetCode</a>
